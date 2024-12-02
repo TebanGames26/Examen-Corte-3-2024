@@ -1,0 +1,9 @@
+Nombre: Juan Esteban García
+Edad: 23
+Experiencia: 21 años.
+Rango: Intendente
+Ciudades:
+- Pereira
+- Manizales
+- Armenia
+- Cali
